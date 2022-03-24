@@ -1,0 +1,1 @@
+Recipe site focused on linking stuff together with relative links. Focused on integrating good git practices and building good habits. Learnt a lot on how to get more consistent and have better flow with git while working alongside this project, got use of the other practices I've learnt so far too with HTML.
